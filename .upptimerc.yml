@@ -16,7 +16,8 @@ status-website:
   baseUrl: /hcestatus
   logoUrl: https://www.highcoastesports.com/static/media/Logo.9a06311f.png
   name: High Coast Esports
-  theme: dark
+  theme: ocean
+  favicon: https://www.highcoastesports.com/static/media/Logo.9a06311f.png
   navbar:
     - title: Status
       href: /

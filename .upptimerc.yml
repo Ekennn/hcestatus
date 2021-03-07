@@ -6,7 +6,7 @@ repo: hcestatus # Your GitHub repository name
 sites:
   - name: High Coast Esports
     url: https://www.highcoastesports.com/
-    - name: High Coast Esports Bot
+  - name: High Coast Esports Bot
     url: ec2-3-250-219-208.eu-west-1.compute.amazonaws.com
   - name: Esportal
     url: https://esportal.com/

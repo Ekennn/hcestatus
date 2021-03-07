@@ -8,6 +8,10 @@ sites:
     url: https://www.highcoastesports.com/
   - name: Esportal
     url: https://esportal.com/
+    - name: ESEA
+    url: https://play.esea.net/
+  - name: Steam Store
+    url: https://store.steampowered.com/
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
@@ -15,16 +19,17 @@ status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /hcestatus
   logoUrl: https://www.highcoastesports.com/static/media/Logo.9a06311f.png
-  name: High Coast Esports
-  theme: ocean
+  name: High Coast Esports Status
+  theme: night
   favicon: https://www.highcoastesports.com/static/media/Logo.9a06311f.png
   navbar:
     - title: Status
       href: /
     - title: Website
       href: https://www.highcoastesports.com/
-  i18n:
-    footer: Powered by KasperE
+
+i18n:
+  footer: Powered by KasperE
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration

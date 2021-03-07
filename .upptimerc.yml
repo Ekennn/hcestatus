@@ -6,14 +6,8 @@ repo: hcestatus # Your GitHub repository name
 sites:
   - name: High Coast Esports
     url: https://www.highcoastesports.com/
-  - name: High Coast Esports Teamspeak EU
-    url: $highcoast.datho.st
-  - name: High Coast Esports CSGO US
-    url: $highcoast3.datho.st:28721
   - name: Esportal
     url: https://esportal.com/
-  - name: ESEA
-    url: https://play.esea.net/
   - name: Steam Store
     url: https://store.steampowered.com/
 

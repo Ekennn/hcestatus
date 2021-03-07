@@ -16,11 +16,14 @@ status-website:
   baseUrl: /hcestatus
   logoUrl: https://www.highcoastesports.com/static/media/Logo.9a06311f.png
   name: High Coast Esports
+  theme: dark
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Website
+      href: https://www.highcoastesports.com/
+  i18n:
+    footer: Powered by KasperE
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration

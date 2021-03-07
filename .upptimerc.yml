@@ -8,7 +8,7 @@ sites:
     url: https://www.highcoastesports.com/
   - name: Esportal
     url: https://esportal.com/
-    - name: ESEA
+  - name: ESEA
     url: https://play.esea.net/
   - name: Steam Store
     url: https://store.steampowered.com/

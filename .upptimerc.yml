@@ -6,8 +6,6 @@ repo: hcestatus # Your GitHub repository name
 sites:
   - name: High Coast Esports
     url: https://www.highcoastesports.com/
-  - name: High Coast Esports Bot
-    url: $https://3.250.219.208
   - name: Esportal
     url: https://esportal.com/
   - name: Steam Store

@@ -16,7 +16,7 @@ status-website:
   # cname: demo.upptime.js.org
   # Uncomment the following line if you don't have a custom domain and add your repo name
   cname: status.highcoastesports.com
-  baseUrl: /hcestatus
+  # baseUrl: /hcestatus
   logoUrl: https://www.highcoastesports.com/static/media/Logo.9a06311f.png
   name: High Coast Esports Status
   theme: night
